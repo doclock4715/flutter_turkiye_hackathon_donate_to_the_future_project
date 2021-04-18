@@ -1,16 +1,10 @@
 # flutter_turkiye_hackathon
 
-A new Flutter project.
+Projemizin amacı maddi anlamda yardıma muhtaç insanlara, ihtiyacı olan eşyaları(gıda,kıyafet,ilaç vb) bağış yoluyla iletmektir.
+- Projemizde bağışçılar için herhangi bir kullanıcı kayıdı olmayacak. Tüm Bağışlar gizlilik esasıyla yapılacaktır. Peygamber Efendimiz Hz. Muhammed(S.A.V.) buyuruyor ki "Sağ elin verdiğini sol el bilmeyecek!"
+- Projemizde şuan gerçek bir ödeme metodu yok. Marketlere çıkması düşünülürse (In App Purchase) eklenmesi lazım.
+-İhtiyacı olan kişiler şuan local Jsondan geliyor. İlerde, muhtaç kişiler ilgili kurumlarımız tarafından tespit edilip gerçek bir json dosyası oluşturularak kullanılmasını düşündüm.(Bağış yaptıktan sonra, bağışa muhtaç olan aile hala uygulamada gözüküyor, bu sorun gerçek json kullanıldığında düzeltilmeye çalışılacaktır.
 
-## Getting Started
+## Uygulama'nın Ekran Görüntüleri
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png)
