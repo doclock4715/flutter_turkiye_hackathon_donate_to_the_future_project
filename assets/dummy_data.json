@@ -1,0 +1,44 @@
+[
+    {
+        "identity": "Yılmaz Family",
+        "need": "10 kg potato, 5kg onion, 2kg flour",
+        "image": "https://c8.alamy.com/comp/FANP7E/poor-indian-family-in-front-of-their-house-pushkar-rajasthan-india-FANP7E.jpg",
+        "price": "50₺"
+    },
+    {
+        "identity": "Tennant Family",
+        "need": "10 kg potato, 10kg onion, 5kg tomato",
+        "image": "https://static1.bigstockphoto.com/3/6/9/large1500/96302606.jpg",
+        "price": "80₺"
+    },
+    {
+        "identity": "Peter Capaldi",
+        "need": "1 large sweater and 1 shirt",
+        "image": "https://i.pinimg.com/originals/85/29/bb/8529bb443a44b78889cbd8bd8bd4409a.jpg",
+        "price": "100₺"
+    },
+    {
+        "identity": "Kale Family",
+        "need": "School items for their children (2 girl, 1 boy)",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/60/No_Picture.jpg",
+        "price": "150₺"
+    },
+    {
+        "identity": "Poor Africa Village",
+        "need": "School items for children (20 girl, 16 boy)",
+        "image": "http://absfreepic.com/absolutely_free_photos/small_photos/poor-village-in-africa-4453x2757_43275.jpg",
+        "price": "1500₺"
+    },
+    {
+        "identity": "Matt Smith",
+        "need": "Medicines for his illness",
+        "image": "https://iqraa.com/Media/Blog_Post_Pictures/news1549.jpg",
+        "price": "1000₺"
+    },
+    {
+        "identity": "Mahmut Keleş",
+        "need": "Wheelchair",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/60/No_Picture.jpg",
+        "price": "15000₺"
+    }
+]
